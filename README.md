@@ -1,1 +1,1 @@
-# Spring-RestTemplate-Project-2
+# Spring-RestTemplate-Project
